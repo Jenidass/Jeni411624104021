@@ -1,0 +1,67 @@
+p{
+    font-size: xx-large ;
+    font-weight: bolder;
+}
+h1{
+    padding:20px;
+    border:20px solid green;
+    margin: 20px;
+}
+img{
+    height: 500px;
+    width: 500px;
+    boreder-radius:500px;
+}
+video{
+    width:500px;
+}
+.imgvideo{
+    background-color: aliceblue;
+    padding:50px;
+}
+#p1{
+    font-style: italic;
+}
+#p2{
+    font-style: italic;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+}
+ol{
+    list-style-type: upper-roman;
+}
+ul{
+    list-style-type: upper-roman ;
+}
+table , td, th{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: blue;
+}
+button{
+    background-color: aqua;
+    border-radius: 5px;
+    padding:5px;
+    margin:20px;
+}
+button:hover{
+    background-color: beige;
+}
+h1:hover{
+    color:blueviolet;
+}
+form{
+    height:500px;
+    width:25%;
+    background-color: gray;
+    padding:50px;
+    border-radius:100px;
+
+}
+
+
