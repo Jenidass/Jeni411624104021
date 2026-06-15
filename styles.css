@@ -72,6 +72,10 @@ nav{
         display: flex;
         flex-direction: column;
     }
+    .grid{
+        display: grid;
+        grid-template-columns: 33% 33% 33%;
+    }
 }
 
 
